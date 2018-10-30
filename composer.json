@@ -17,15 +17,12 @@
        "role": "Developer"
      }
   ],
-  "require": {
-    "php": ">=5.6.0"
-  },
   "autoload": {
     "files": [
       "registration.php"
     ],
     "psr-4": {
-      "Yoochoose\\Tracking\\": ""
+      "ezsystems\\ezpersonalization-magento2\\": ""
     }
   }
 }

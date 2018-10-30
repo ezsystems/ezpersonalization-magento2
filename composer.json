@@ -4,7 +4,7 @@
   "keywords": ["marketing","personalization","recommendations","search","notifications"],
   "homepage": "https://github.com/ezsystems/ezpersonalization-magento2",
   "type": "magento2-module",
-  "version": "2.0.3",
+  "version": "2.1.1",
   "license": [
     "OSL-3.0",
     "AFL-3.0"

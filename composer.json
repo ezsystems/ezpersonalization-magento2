@@ -1,5 +1,5 @@
 {
-  "name": "ezsystems/ezpersonalization-magento2",
+  "name": "ezsystems/magento2-tracking",
   "description": "ezsystems personalization solution for personalized recommendations, personalized search und triggered notifications",
   "keywords": ["marketing","personalization","recommendations","search","notifications"],
   "homepage": "https://github.com/ezsystems/ezpersonalization-magento2",
@@ -21,7 +21,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "ezsystems\\ezpersonalization-magento2\\": ""
+      "ezsystems\\magento2-tracking\\": ""
     }
   }
 }
